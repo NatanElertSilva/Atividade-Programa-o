@@ -1,0 +1,9 @@
+form #txtTexto {
+    width: 100px;
+    height: 20px;
+}
+
+form input[type="button"]{
+    background-color: black;
+    color: white;
+}
