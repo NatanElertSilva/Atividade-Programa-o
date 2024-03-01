@@ -8,12 +8,12 @@ Check list
 - [x] 4. A primeira pessoa deve criar uma branch chamada versao01.
 - [x] 5. Nessa branch, crie a p ́agina index.html com um t ́ıtulo, par ́agrafo e uma imagem.
 - [x] 6. Fa ̧ca um commit e suba para o github.
-- [ ] 7. Crie uma pull request usando essa branch para ser adicionada ao main. A outra pessoa da dupla
+- [x] 7. Crie uma pull request usando essa branch para ser adicionada ao main. A outra pessoa da dupla
 deve revisar o c ́odigo e fazer o merge.
-- [ ] 8. A outra pessoa do grupo deve criar uma nova branch chamada versao02.
-- [ ] 9. Nessa branch, altere o index.html para conter um formul ́ario com um campo para nome e um
+- [x] 8. A outra pessoa do grupo deve criar uma nova branch chamada versao02.
+- [x] 9. Nessa branch, altere o index.html para conter um formul ́ario com um campo para nome e um
 bot ̃ao.
-- [ ] 10. Fa ̧ca um commit e suba para o github.
+- [x] 10. Fa ̧ca um commit e suba para o github.
 - [ ] 11. Crie uma pull request usando essa branch para ser adicionada ao main. A outra pessoa da dupla
 deve revisar o c ́odigo e fazer o merge. S ́o que agora, a pessoa que fez a revis ̃ao  ́e a pessoa contr ́aria
 do pull request anterior.
