@@ -2,6 +2,8 @@
 Esse repositório foi feito para uma atividade de programação com o intuito de aprender mais sobre o github.
 feito pelos alunos Natan e Wellington
 
+https://natanelertsilva.github.io/Atividade-Programa-o/ 
+
 Check list
 - [x] 1. Crie um repositório.
 - [x] 2. Adicione a outra pessoa da dupla como colaborador do repositório.
